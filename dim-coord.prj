@@ -1,0 +1,21 @@
+(VLISP-PROJECT-LIST
+  :NAME
+  dim-coord
+  :OWN-LIST
+  ("dim-coord")
+  :FAS-DIRECTORY
+  "D:\\lisp-fas"
+  :TMP-DIRECTORY
+  "D:\\lisp-fas\\temp"
+  :PROJECT-KEYS
+  (:BUILD (:OPTIMIZE :LOCALIZE :MAKE-INTERNAL)
+	  :MERGED
+	  T
+	  :SAFE-MODE
+	  T
+	  :MSGLEVEL
+	  1
+  )
+  :CONTEXT-ID
+  :AUTOLISP
+)
